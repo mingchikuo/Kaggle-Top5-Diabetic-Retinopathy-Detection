@@ -1,0 +1,12 @@
+# Ignore
+__pycache__
+.idea/
+*.json
+*.zip
+*.png
+*.jpg
+*.bak
+*.csv
+*.bat
+*.bmp
+*.pth
